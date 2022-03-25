@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import Form from "components/Form";
 
 export const App = () => {
   return (
-    <div>
-      Find me in src/app.js!
-    </div>
-  )
-}
+    <>
+      <main>
+        <Form />
+      </main>
+      <footer>
+        <a href="https://supper-society.netlify.app/">© Supper Society</a>
+      </footer>
+    </>
+  );
+};

@@ -1,0 +1,17 @@
+.submit-message {
+  font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.submit-list {
+	list-style-type: '\01F9C2';
+	margin-left: 16px;
+	padding: inherit;
+  list-style-position:outside;
+  list-style-image: none;
+}
+
+.submit-list-item {
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
